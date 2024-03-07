@@ -32,31 +32,31 @@ Open Source License✅
 
 --------------------------------------------------------------
 
-evaluation: all 5 checks are required to be open source
+evaluation: all 5 checks are required to be open source, its not open source if you cant reproduce the language model from scratch
 
 |chatgpt 3.5|Training Data|Model Architecture code|Training Code|Model Weights|Documentation|Open source license|
 |-----------|-------------|-----------------------|-------------|-------------|-------------|-------------------|
-|❌ Not open source|❌|❌|❌|❌|❌|❌|
+|Not open source ❌|❌|❌|❌|❌|❌|❌|
 
 
 |ChatGPT 4|Training Data|Model Architecture code|Training Code|Model Weights|Documentation|Open source license| 
 |-----------|-------------|-----------------------|-------------|-------------|-------------|-----------------|
-|❌ Not open source|❌|❌|❌|❌|❌|❌|
+|Not open source ❌|❌|❌|❌|❌|❌|❌|
 
 
 |Claude 3|Training Data|Model Architecture code|Training Code|Model Weights|Documentation|Open source license| 
 |--------|-------------|-----------------------|-------------|-------------|-------------|-------------------|
-|❌ Not open source|❌|❌|❌|❌|❌|❌|
+|Not open source ❌|❌|❌|❌|❌|❌|❌|
 
 
 |Llama 2|Training Data|Model Architecture code|Training Code|Model Weights|Documentation|Open source license| 
 |-------|-------------|-----------------------|-------------|-------------|-------------|-------------------|
-|❌ Not open source|❌|❌|❌|✅|✅|❌|
+|Not open source ❌|❌|❌|❌|✅|✅|❌|
 
 
 |olmo-2|Training Data|Model Architecture code|Training Code|Model Weights|Documentation|Open source license| 
 |------|-------------|-----------------------|-------------|-------------|-------------|-------------------|
-|✅ open source|✅|✅|✅|✅|✅|✅|
+|open source ✅|✅|✅|✅|✅|✅|✅|
 
 
 
