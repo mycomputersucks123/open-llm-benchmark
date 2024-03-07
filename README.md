@@ -9,4 +9,26 @@ Model Weights✅
 Documentation✅
 Open Source License✅
 
+
+edit/march8/
+
+Training Data✅
+
+
+Model Architecture Code✅
+
+
+Training Code✅
+
+
+Model Weights✅
+
+
+Documentation✅
+
+
+Open Source License✅
+
+
+
 pull request if anything is missing or that should be added in the checklist
