@@ -30,5 +30,14 @@ Documentation✅
 Open Source License✅
 
 
+--------------------------------------------------------------
+|chatgpt 3.5|Training Data|Model Architecture code|Training Code|Model Weights|Documentation|Open source license| 
+|-----------|-------------|-----------------------|-------------|-------------|-------------|-------------------|
+
+
+
+
+
+
 
 pull request if anything is missing or that should be added in the checklist
